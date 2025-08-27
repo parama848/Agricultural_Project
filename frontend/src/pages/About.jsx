@@ -22,7 +22,7 @@ const About = () => {
           <p> To support rural farmers by giving them better market access.</p>
           <p>To deliver farm-fresh vegetables and greens directly to buyers.</p>
           <p className="text-gray-800 font-semibold">Our Mission</p>
-          <p>To build a sustainable, transparent, and trust-driven food ecosystem</p>
+          <p>Connecting all the farmers with customers for direct selling without any intermediate sellers.</p>
         </div>
       </div>
 

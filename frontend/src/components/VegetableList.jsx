@@ -58,7 +58,7 @@
 
 
 import React, { useContext } from 'react';
-import {ShopContext} from '../context/ShopContext';
+import { ShopContext } from '../context/shopContext';
 
 
 // Helper function to convert buffer to base64

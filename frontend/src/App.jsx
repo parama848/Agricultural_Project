@@ -9,6 +9,7 @@ import Login from './pages/Login'
 // import Vegetables from './pages/Vegetables'
 import Vegetables from './pages/Vegetables'
 import Cart from './components/Cart'
+import ProfilePage from './pages/Profile'
 
 
 
@@ -29,6 +30,7 @@ const App = () => {
       <Route path='/about' element={<About />} />
       <Route path='/login' element={<Login />} /> 
       <Route path='/cart' element={<Cart />} />
+      <Route path='/profile' element={<ProfilePage />} />
      </Routes>
     </div>
     <Footer />
